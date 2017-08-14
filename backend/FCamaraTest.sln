@@ -1,0 +1,96 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FCamara.Servicos", "FCamara.ServicoAutenticacao.Contratos\FCamara.Servicos.csproj", "{40B576DC-852A-4B42-9E0F-4377D8759BDA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6.Testes", "6.Testes", "{1033D984-AE2C-49B8-97D5-88615771569F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FCamara.Servicos.Testes", "FCamara.ServicoAutenticacao.Testes\FCamara.Servicos.Testes.csproj", "{507B7748-12DD-4BFA-AB38-ECF6CBD4DD6C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.Comum", "1.Comum", "{E1269262-AAFD-492B-93E0-7EFCFE265983}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FCamara.Comum", "FCamara.Comum\FCamara.Comum.csproj", "{8026E02C-2DE0-48B0-87F1-32C516FB0E1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FCamara.Comum.Testes", "FCamara.Comum.Testes\FCamara.Comum.Testes.csproj", "{AA04F88E-03E5-4F82-8413-0CA24E04E898}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.Aplicacao", "5.Aplicacao", "{74FF553D-CC14-4B6C-A11B-5E5E2F86A809}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Dominio", "3.Dominio", "{329B059C-3A2E-406C-BDE9-EAC35BCB922B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.Infra", "4.Infra", "{0FC1C1ED-1BDB-4C5A-8766-065505DC67FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FCamara.Dominio", "FCamara.Dominio\FCamara.Dominio.csproj", "{92A1FB93-8070-4DD0-A431-A703936A4D3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FCamara.Infra", "FCamara.Infra\FCamara.Infra.csproj", "{963D0CD2-58A1-4D52-94EB-7CDC08961446}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FCamara.Infra.IoC", "FCamara.Infra.IoC\FCamara.Infra.IoC.csproj", "{80648241-56CB-4955-A8EA-8AF668C288E7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.WebApi", "2.WebApi", "{EB15CBDB-2D08-42F6-97D4-C9103507A150}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{B819492D-F6AF-43C4-B968-536D0A685C5D}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FCamara.WebApi", "FCamara.WebApi\FCamara.WebApi.csproj", "{1508AC66-7F9E-4FCB-BDE3-B3CBC3B1DAC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40B576DC-852A-4B42-9E0F-4377D8759BDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40B576DC-852A-4B42-9E0F-4377D8759BDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40B576DC-852A-4B42-9E0F-4377D8759BDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40B576DC-852A-4B42-9E0F-4377D8759BDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{507B7748-12DD-4BFA-AB38-ECF6CBD4DD6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{507B7748-12DD-4BFA-AB38-ECF6CBD4DD6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{507B7748-12DD-4BFA-AB38-ECF6CBD4DD6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{507B7748-12DD-4BFA-AB38-ECF6CBD4DD6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8026E02C-2DE0-48B0-87F1-32C516FB0E1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8026E02C-2DE0-48B0-87F1-32C516FB0E1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8026E02C-2DE0-48B0-87F1-32C516FB0E1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8026E02C-2DE0-48B0-87F1-32C516FB0E1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA04F88E-03E5-4F82-8413-0CA24E04E898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA04F88E-03E5-4F82-8413-0CA24E04E898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA04F88E-03E5-4F82-8413-0CA24E04E898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA04F88E-03E5-4F82-8413-0CA24E04E898}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92A1FB93-8070-4DD0-A431-A703936A4D3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92A1FB93-8070-4DD0-A431-A703936A4D3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92A1FB93-8070-4DD0-A431-A703936A4D3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92A1FB93-8070-4DD0-A431-A703936A4D3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{963D0CD2-58A1-4D52-94EB-7CDC08961446}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{963D0CD2-58A1-4D52-94EB-7CDC08961446}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{963D0CD2-58A1-4D52-94EB-7CDC08961446}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{963D0CD2-58A1-4D52-94EB-7CDC08961446}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80648241-56CB-4955-A8EA-8AF668C288E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80648241-56CB-4955-A8EA-8AF668C288E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80648241-56CB-4955-A8EA-8AF668C288E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80648241-56CB-4955-A8EA-8AF668C288E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1508AC66-7F9E-4FCB-BDE3-B3CBC3B1DAC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1508AC66-7F9E-4FCB-BDE3-B3CBC3B1DAC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1508AC66-7F9E-4FCB-BDE3-B3CBC3B1DAC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1508AC66-7F9E-4FCB-BDE3-B3CBC3B1DAC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{40B576DC-852A-4B42-9E0F-4377D8759BDA} = {74FF553D-CC14-4B6C-A11B-5E5E2F86A809}
+		{507B7748-12DD-4BFA-AB38-ECF6CBD4DD6C} = {1033D984-AE2C-49B8-97D5-88615771569F}
+		{8026E02C-2DE0-48B0-87F1-32C516FB0E1D} = {E1269262-AAFD-492B-93E0-7EFCFE265983}
+		{AA04F88E-03E5-4F82-8413-0CA24E04E898} = {1033D984-AE2C-49B8-97D5-88615771569F}
+		{92A1FB93-8070-4DD0-A431-A703936A4D3B} = {329B059C-3A2E-406C-BDE9-EAC35BCB922B}
+		{963D0CD2-58A1-4D52-94EB-7CDC08961446} = {0FC1C1ED-1BDB-4C5A-8766-065505DC67FD}
+		{80648241-56CB-4955-A8EA-8AF668C288E7} = {0FC1C1ED-1BDB-4C5A-8766-065505DC67FD}
+		{1508AC66-7F9E-4FCB-BDE3-B3CBC3B1DAC2} = {EB15CBDB-2D08-42F6-97D4-C9103507A150}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPath = packages\Unity.2.1.505.0\lib\NET35
+	EndGlobalSection
+EndGlobal

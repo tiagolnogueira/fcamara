@@ -1,0 +1,7 @@
+C:\Users\Tiago\Desktop\nogueira\FCamara.Dominio\bin\Debug\FCamara.Dominio.dll
+C:\Users\Tiago\Desktop\nogueira\FCamara.Dominio\bin\Debug\FCamara.Dominio.pdb
+C:\Users\Tiago\Desktop\nogueira\FCamara.Dominio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tiago\Desktop\nogueira\FCamara.Dominio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tiago\Desktop\nogueira\FCamara.Dominio\obj\Debug\FCamara.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\Tiago\Desktop\nogueira\FCamara.Dominio\obj\Debug\FCamara.Dominio.dll
+C:\Users\Tiago\Desktop\nogueira\FCamara.Dominio\obj\Debug\FCamara.Dominio.pdb

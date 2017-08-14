@@ -1,0 +1,17 @@
+C:\Users\Tiago\Desktop\nogueira\FCamara.Infra\bin\Debug\FCamara.Infra.dll.config
+C:\Users\Tiago\Desktop\nogueira\FCamara.Infra\bin\Debug\FCamara.Infra.dll
+C:\Users\Tiago\Desktop\nogueira\FCamara.Infra\bin\Debug\FCamara.Infra.pdb
+C:\Users\Tiago\Desktop\nogueira\FCamara.Infra\bin\Debug\EntityFramework.dll
+C:\Users\Tiago\Desktop\nogueira\FCamara.Infra\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tiago\Desktop\nogueira\FCamara.Infra\bin\Debug\FCamara.Dominio.dll
+C:\Users\Tiago\Desktop\nogueira\FCamara.Infra\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tiago\Desktop\nogueira\FCamara.Infra\bin\Debug\FCamara.Dominio.pdb
+C:\Users\Tiago\Desktop\nogueira\FCamara.Infra\bin\Debug\EntityFramework.xml
+C:\Users\Tiago\Desktop\nogueira\FCamara.Infra\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tiago\Desktop\nogueira\FCamara.Infra\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tiago\Desktop\nogueira\FCamara.Infra\obj\Debug\FCamara.Infra.csprojResolveAssemblyReference.cache
+C:\Users\Tiago\Desktop\nogueira\FCamara.Infra\obj\Debug\FCamara.Infra.Migrations.Inicial.resources
+C:\Users\Tiago\Desktop\nogueira\FCamara.Infra\obj\Debug\FCamara.Infra.Migrations.Usuario.resources
+C:\Users\Tiago\Desktop\nogueira\FCamara.Infra\obj\Debug\FCamara.Infra.csproj.GenerateResource.Cache
+C:\Users\Tiago\Desktop\nogueira\FCamara.Infra\obj\Debug\FCamara.Infra.dll
+C:\Users\Tiago\Desktop\nogueira\FCamara.Infra\obj\Debug\FCamara.Infra.pdb

@@ -1,0 +1,7 @@
+C:\Users\Tiago\Desktop\nogueira\FCamara.Comum\bin\Debug\FCamara.Comum.dll
+C:\Users\Tiago\Desktop\nogueira\FCamara.Comum\bin\Debug\FCamara.Comum.pdb
+C:\Users\Tiago\Desktop\nogueira\FCamara.Comum\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tiago\Desktop\nogueira\FCamara.Comum\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tiago\Desktop\nogueira\FCamara.Comum\obj\Debug\FCamara.Comum.csprojResolveAssemblyReference.cache
+C:\Users\Tiago\Desktop\nogueira\FCamara.Comum\obj\Debug\FCamara.Comum.dll
+C:\Users\Tiago\Desktop\nogueira\FCamara.Comum\obj\Debug\FCamara.Comum.pdb
